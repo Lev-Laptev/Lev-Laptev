@@ -32,4 +32,4 @@ My Skills:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lev-laptev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lev-laptev&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Good+luck+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Good+luck+!)](https://github.com/Lev-Laptev)
