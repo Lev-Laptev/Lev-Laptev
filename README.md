@@ -32,4 +32,6 @@ My Skills:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="lev-laptev's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=lev-laptev&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
 
+<a href="https://app.daily.dev/Laptev"><img src="https://api.daily.dev/devcards/76e483ea4b1c4ce38b22835b92a58758.png?r=zcn" width="200" alt="Lev's Dev Card"/></a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Good+luck+!)](https://github.com/Lev-Laptev)
