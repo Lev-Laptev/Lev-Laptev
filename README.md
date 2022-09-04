@@ -1,4 +1,9 @@
-# Hi :wave:
+# Hi, I'm Lev! :wave:
+
+## 🚀 About Me
+👩‍💻 I'm a front-end developer
+
+## 🔗 Links
 
 <div align="left">
 
@@ -8,7 +13,7 @@
 
 </div>  
 
-## Skills:
+## 🛠 Skills
 
 <p align="left">
 
