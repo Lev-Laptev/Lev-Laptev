@@ -1,4 +1,4 @@
-# Hi, I'm Lev! :wave:
+# Hi :wave:
 
 ## 🚀 About Me
 👩‍💻 I'm a front-end developer
