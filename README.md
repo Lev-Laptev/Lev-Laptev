@@ -1,8 +1,5 @@
 # Hi :wave:
 
-## 🚀 About Me
-👩‍💻 I'm a front-end developer
-
 ## 🔗 Links
 
 <div align="left">
