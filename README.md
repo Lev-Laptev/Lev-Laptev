@@ -4,7 +4,7 @@
 
 <div align="left">
 
-[![telegram](https://img.shields.io/badge/levqwerty-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/levqwerty)
+[![telegram](https://img.shields.io/badge/levqwerty-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quettaqwerty)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:common.levlaptev@gmail.ru)
 ![](https://komarev.com/ghpvc/?username=lev-laptev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
@@ -38,3 +38,6 @@
 <a href="https://app.daily.dev/Laptev"><img src="https://api.daily.dev/devcards/76e483ea4b1c4ce38b22835b92a58758.png?r=zcn" width="200" alt="Lev's Dev Card"/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Good+luck+!)](https://github.com/Lev-Laptev)
+
+## 📊 Active Platform
+<img src="https://i.ibb.co/TgHKP1C/2023-05-18-170909.png" alt="2023-05-18-170909" border="0">
