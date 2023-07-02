@@ -39,5 +39,3 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Good+luck+!)](https://github.com/Lev-Laptev)
 
-## 📊 Active Platform
-<img src="https://i.ibb.co/TgHKP1C/2023-05-18-170909.png" alt="2023-05-18-170909" border="0">
